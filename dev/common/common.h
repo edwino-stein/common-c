@@ -10,5 +10,6 @@
     #include <stdbool.h> //Define o tipo booleano
 
     #include "header/string.h"
+    #include "header/util.h"
 
 #endif
