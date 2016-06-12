@@ -11,5 +11,6 @@
 
     #include "header/string.h"
     #include "header/util.h"
+    #include "header/stdOutput.h"
 
 #endif
