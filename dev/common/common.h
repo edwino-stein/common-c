@@ -14,5 +14,6 @@
     #include "header/stdOutput.h"
     #include "header/stdInput.h"
     #include "header/console.h"
+    #include "header/random.h"
 
 #endif

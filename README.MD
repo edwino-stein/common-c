@@ -7,3 +7,4 @@ Inclue os itens:
     * Módulo StdOutput;
     * Módulo StdInput;
     * Módulo Console;
+    * Módulo Random;
