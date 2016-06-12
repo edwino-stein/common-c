@@ -13,5 +13,6 @@
     #include "header/util.h"
     #include "header/stdOutput.h"
     #include "header/stdInput.h"
+    #include "header/console.h"
 
 #endif
