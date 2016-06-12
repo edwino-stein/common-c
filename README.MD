@@ -5,3 +5,4 @@ Inclue os itens:
     * Módulo String;
     * Módulo Util;
     * Módulo StdOutput;
+    * Módulo StdInput;
