@@ -9,4 +9,6 @@
     #include <stdlib.h>
     #include <stdbool.h> //Define o tipo booleano
 
+    #include "header/string.h"
+
 #endif
